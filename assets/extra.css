@@ -1,0 +1,5 @@
+/* 修改表格內文字垂直置中 */
+.md-typeset table td {
+    vertical-align: middle;
+}
+
